@@ -1,16 +1,21 @@
-## Hi there 👋
+# Leah Kivuti
 
-<!--
-**leahkivuti/leahkivuti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring data scientist. I use Excel, SQL (PostgreSQL) and Python to clean messy data and turn it into insights people can act on.
 
-Here are some ideas to get you started:
+## Projects on GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[Excel_projects](https://github.com/leahkivuti/Excel_projects)** — Excel analysis and dashboards, starting with a Jumia product performance dashboard (pivot tables, slicers, conditional formatting).
+
+SQL and Python projects are next: hotel bookings data cleaning, hospital data joins, and the SafariConnect end-to-end analysis.
+
+## I write about what I learn
+
+I publish practical, hands-on articles on dev.to: **[dev.to/leahkivuti](https://dev.to/leahkivuti)** — PostgreSQL, SQL joins, Excel and Power BI, always with real datasets and screenshots.
+
+## Tools
+
+Excel | PostgreSQL | Python | Power BI
+
+## Reach me
+
+GitHub: [@leahkivuti](https://github.com/leahkivuti) | dev.to: [leahkivuti](https://dev.to/leahkivuti)
