@@ -1,6 +1,6 @@
 # Leah Kivuti
 
-Aspiring data scientist. I use Excel, SQL (PostgreSQL) and Python to clean messy data and turn it into insights people can act on.
+Data analyst. I use Excel, SQL (PostgreSQL) and Python to clean messy data and turn it into insights people can act on.
 
 ## Projects on GitHub
 
